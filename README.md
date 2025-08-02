@@ -5,7 +5,7 @@ I'm Lorenzo, a Data Science student from University of Pisa.
 
 I enjoy working on cutting-edge projects that solve real-world problems. If it involves climate, economics, or accidentally training a model that thinks pigeons are drones, I'm interested.
 
-## Fun Facts:
+## 🍿 Fun Facts:
 - The first to buy a round at the pub with friends 🍻, and also the first to hit the floor!
 - I can't read just one book at a time 📚 — there are always several stacked on my bedside table, leaning like the Tower of Pisa.
 
