@@ -1,7 +1,7 @@
 ## Que lo que, tiburon? 🤙🏻
 Welcome to my page.
 
-I'm Lorenzo, Data Science student from University of Pisa.
+I'm Lorenzo, a Data Science student from University of Pisa.
 
 I enjoy working on cutting-edge projects that solve real-world problems. If it involves climate, economics, or accidentally training a model that thinks pigeons are drones, I'm interested.
 
